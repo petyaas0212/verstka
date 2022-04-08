@@ -1,0 +1,186 @@
+.first_page{
+    margin-top: 140px;
+    margin-left: 312px;
+    position: absolute;
+    width: 1296px;
+    height: 600px;
+    background:  url(/public/photos/unsplash_S-llxYh3GzI.png);
+    border-radius: 10px;
+
+
+}
+.container{
+    width: 1920px;
+    margin: 0 auto;
+    height: 5155px;
+  }
+.first_page h{
+    font-family: 'El Messiri';
+    font-size: 24px;
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    margin-left: 540px;
+    margin-top: 126px;
+    font-weight: 700;
+}
+.first_page h1{
+    font-family: 'El Messiri';
+    font-size: 64px;
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    margin-left: 480px;
+    margin-top: 199px;
+    font-weight: 700;
+}
+.first_page h1 p{
+    font-family: 'El Messiri';
+    font-size: 64px;
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    margin-left: 40px;
+    margin-top: 9px;
+    font-weight: 700;
+}
+.first_page h3,h9{
+    position: absolute;
+    font-family: 'El Messiri';
+    font-size: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 720px;
+    margin-left: 520px;
+
+
+}
+.first_page h3{
+
+    margin-top: 740px;
+    margin-left: 520px;
+
+
+}
+.first_page .cards{
+    background: url(/public/photos/water.png);
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -4250px;
+    width: 416px;
+    height: 540px;
+}
+.first_page h4,h5,h6,h7,h8,h10{
+    position: absolute;
+    font-size: 24px;
+    color: #fff;
+    font-weight: 700;
+    font-family: 'El Messiri';
+    margin-top: 456px;
+    margin-left: 70px;
+}
+.first_page h5{
+    
+    margin-top: 190px;
+    margin-left: 60px;
+}
+.first_page h6{
+   
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.first_page h7{
+  
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.first_page h8{
+  
+    margin-top: 180px;
+    margin-left: 90px;
+}
+.first_page h10{
+  
+    margin-top: -3300px;
+    margin-left: 110px;
+}
+.first_page h9{
+
+    margin-top: -3550px;
+    margin-left: 520px;
+    font-weight: 700;
+
+
+}
+.first_page h11,h12{
+    font-family: 'Grape Nuts', cursive;
+   position: absolute;
+    font-weight: 300;
+font-size: 16px;
+margin-top: -3200px;
+margin-left: 90px;
+color: #fff;
+}
+.first_page h12{
+    margin-top: -2800px;
+margin-left: 700px;
+}
+.first_page .same_cards1{
+    background: url("/public/photos/water2.png");
+    position: absolute;
+    width: 416px;
+    height: 258px;
+    border-radius: 10px;
+    margin-top: -4250px;
+    margin-left:440px;
+   
+}
+.first_page .same_cards2{
+    background: url("/public/photos/water2.png");
+    position: absolute;
+    width: 416px;
+    height: 258px;
+    border-radius: 10px;
+    margin-top: -3970px;
+    margin-left:440px;
+
+}
+.first_page .same_cards3{
+    background: url("/public/photos/water2.png");
+    position: absolute;
+    width: 416px;
+    height: 258px;
+    border-radius: 10px;
+    margin-top: -4250px;
+    margin-left:870px;
+
+}
+.first_page .same_cards4{
+    background: url("/public/photos/water2.png");
+    position: absolute;
+    width: 416px;
+    height: 258px;
+    border-radius: 10px;
+    margin-top: -3970px;
+    margin-left:870px;
+
+}
+.first_page .same_cards5{
+background: url("/public/photos/Rectangle\ 23.png");
+position: absolute;
+width: 526px;
+height: 365px;
+border-radius: 10px;
+margin-top: -3300px;
+margin-left: 700px;
+}
+.first_page .same_cards6{
+    background: url("/public/photos/Rectangle\ 23.png");
+    position: absolute;
+    width: 526px;
+    height: 365px;
+    border-radius: 10px;
+    margin-top: -2800px;
+    margin-left: 100px;
+    }

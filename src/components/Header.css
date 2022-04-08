@@ -1,0 +1,60 @@
+*{
+    transition: all 0.2s;
+}
+
+.Header{
+  position: absolute;
+    background-color: #162831;
+  width: 100%;
+ 
+  background-size: cover;
+
+}
+.menu{
+ margin-left:586px;
+ margin-top: 51px;
+ margin-right: 500px;
+  display: flex;
+ 
+  font-family: 'Grape Nuts', cursive;
+  font-weight: 400;
+    
+    font-size: 14px;
+   
+}
+.container{
+  width: 1920px;
+  margin: 0 auto;
+  height: 5155px;
+}
+
+.menu a{
+  color: #fff;
+}
+.menu li a{
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.logo{
+
+  background: url("/public/photos/W.png") no-repeat center;
+  
+  position: absolute;
+  width: 32px;
+height: 22px;
+left: 326px;
+top: 43.51px;
+}
+.button{
+  position: absolute;
+  justify-content: center;
+  font-size: 13px;
+  width: 155px;
+height: 36px;
+  color: #fff;
+  background: #018ABE;
+  border-radius: 3px;
+   margin-left: 1455px; 
+   margin-right: 310px;   
+margin-top: -23px;
+}

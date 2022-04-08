@@ -1,0 +1,57 @@
+.map{
+    background: url("/public/photos/Rectangle\ 27.png");
+    width: 856px;
+height: 604px;
+position: absolute;
+margin-top: 3000px;
+margin-left: 400px;
+}
+
+
+    #square {
+        position: absolute;
+        width: 392px;
+        height: 290px;
+        background: #018ABE;
+        margin-top: 3000px;
+        margin-left:1400px;
+        border-radius: 10px;
+    }
+     #square1 {
+        position: absolute;
+        width: 392px;
+        height: 290px;
+        background: #018ABE;
+        margin-top: 3300px;
+        margin-left: 1400px;
+        border-radius: 10px;
+    }
+    .text{
+        font-family: 'El Messiri';
+        font-weight: 700;
+       font-size: 24px;
+       margin-top: 3050px;
+       position: absolute;
+       margin-left: 1470px;
+       color: white;
+    }
+    .footer button{
+        
+    
+        font-size: 13px;
+        width: 155px;
+        height: 36px;
+        color: #018ABE;
+        background: white;
+        border-radius: 3px;
+         margin-left: 1490px; 
+         margin-top: 3500px;
+      }
+    .footer svg{
+    background-image: url("/public/photos/Vector.png");
+    position: absolute;  
+    
+     margin-top: 25px;
+    height: 17x5px;
+    width: 13.75px;
+    }
